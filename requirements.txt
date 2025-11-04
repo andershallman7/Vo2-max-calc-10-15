@@ -1,0 +1,2 @@
+pyinstaller>=5.0
+# tkinter is included with the standard Python install on Windows
